@@ -9,9 +9,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zedmort&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/zedmort?label=Followers&style=for-the-badge&color=7928ca&labelColor=0d1117" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/zedmort?label=Total%20Stars&style=for-the-badge&color=ffd700&labelColor=0d1117" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Benatia-merouane&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Benatia-merouane?label=Followers&style=for-the-badge&color=7928ca&labelColor=0d1117" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Benatia-merouane?label=Total%20Stars&style=for-the-badge&color=ffd700&labelColor=0d1117" alt="Stars"/>
 </div>
 
 ---
@@ -22,7 +22,7 @@
 class MerouaneBenatia:
     def __init__(self):
         self.name        = "Benatia Merouane"
-        self.username    = "zedmort"
+        self.username    = "Benatia-merouane"
         self.location    = "Algeria 🇩🇿"
         self.role        = "Full-Stack Developer & AI Engineer"
         self.languages   = ["Python", "TypeScript", "JavaScript", "C#", "Java", "SQL", "Dart"]
@@ -165,13 +165,13 @@ print(me.greet())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zedmort&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7928ca&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zedmort&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=7928ca&currStreakLabel=00d9ff&sideLabels=ffffff&dates=888888" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Benatia-merouane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7928ca&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Benatia-merouane&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=7928ca&currStreakLabel=00d9ff&sideLabels=ffffff&dates=888888" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedmort&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=10" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=zedmort&bg_color=0d1117&color=00d9ff&line=7928ca&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benatia-merouane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=10" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Benatia-merouane&bg_color=0d1117&color=00d9ff&line=7928ca&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -179,7 +179,7 @@ print(me.greet())
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zedmort&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Benatia-merouane&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -188,9 +188,9 @@ print(me.greet())
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zedmort/zedmort/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zedmort/zedmort/output/github-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zedmort/zedmort/output/github-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Benatia-merouane/Benatia-merouane/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Benatia-merouane/Benatia-merouane/output/github-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Benatia-merouane/Benatia-merouane/output/github-snake.svg"/>
   </picture>
 </div>
 
@@ -237,7 +237,7 @@ print(me.greet())
 ## 📈 Coding Activity
 
 <div align="center">
-  <img src="https://wakatime.com/badge/user/zedmort.svg?style=for-the-badge" alt="WakaTime"/>
+  <img src="https://wakatime.com/badge/user/Benatia-merouane.svg?style=for-the-badge" alt="WakaTime"/>
 </div>
 
 <!--START_SECTION:waka-->
@@ -255,8 +255,8 @@ SQL              █░░░░░░░░░░░░░░░░░░░░
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/zedmort/CarRentalApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zedmort&repo=CarRentalApp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7928ca&text_color=ffffff" alt="CarRentalApp"/>
+  <a href="https://github.com/Benatia-merouane/CarRentalApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Benatia-merouane&repo=CarRentalApp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7928ca&text_color=ffffff" alt="CarRentalApp"/>
   </a>
 </div>
 
@@ -292,11 +292,11 @@ SQL              █░░░░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zedmort)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Benatia-merouane)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merouane-benatia-00376a283/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/merouane_in.4k/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/213555190363)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=vercel&logoColor=black)](https://zedmort.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=vercel&logoColor=black)](https://benatia-merouane.dev)
 
 </div>
 
